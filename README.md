@@ -12,3 +12,9 @@ We incorporated slick.js to bring a sense of accesibility for any individual.
 Jquery and Ajax were the primary tools used to scrape data from the API's.
 
 In the future, we want to have access to Edamame's Commercial API so that user's will have access to the whole API at any moment and not be restraint to a finite amount of calls. We also want to incorporate tags and filters that will help with user's selections when looking for certain foods and/or drinks.
+
+
+Inline-style: 
+![alt text](https://github.com/spencer-alan/project-1/blob/master/assets/screenshots/home%20page.png "Home Page")
+
+![alt text](https://github.com/spencer-alan/project-1/blob/master/assets/screenshots/tacos.png "Results Page")
